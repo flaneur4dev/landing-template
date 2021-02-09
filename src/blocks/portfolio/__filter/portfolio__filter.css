@@ -1,0 +1,5 @@
+.portfolio__filter {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 45px;
+}

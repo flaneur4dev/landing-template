@@ -1,0 +1,19 @@
+.social {
+  padding: 10px 14px;
+  width: 70%;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgb(22, 160, 134, .8);
+  opacity: 0;
+  transition: .3s;
+}
+
+.card__container:hover .social {
+  opacity: 1;
+}

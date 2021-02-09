@@ -1,0 +1,5 @@
+.header__wrapper {
+  display: inline-block;
+  vertical-align: super;
+  flex: 1;
+}

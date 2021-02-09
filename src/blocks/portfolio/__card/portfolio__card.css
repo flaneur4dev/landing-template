@@ -1,0 +1,9 @@
+.portfolio__card {
+  width: 100%;
+  cursor: pointer;
+  transition: .3s;
+}
+
+.portfolio__card:hover {
+  opacity: .3;
+}

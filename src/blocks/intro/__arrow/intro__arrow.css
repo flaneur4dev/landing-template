@@ -1,0 +1,8 @@
+.intro__arrow {
+  margin: 0 auto;
+  height: 45px;
+  width: 45px;
+  background-image: url(../../../images/intro/button.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}

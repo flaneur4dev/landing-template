@@ -1,0 +1,17 @@
+.form__submit {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  padding: 14px 30px;
+  position: relative;
+  left: 100%;
+  transform: translateX(-100%);
+  border: none;
+  outline: none;
+  color: var(--base100);
+  background: var(--base400);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  cursor: pointer;
+}

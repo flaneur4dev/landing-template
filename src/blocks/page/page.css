@@ -1,0 +1,22 @@
+.page {
+  --base100:  #fff;
+  --base200:  #ecf0f1;
+  --base300:  #dde1e3;
+  --base400:  #1bbc9b;
+  --base500: #16a086;
+  --base600: #2d3e50;
+  --base700: #000;
+  
+  max-width: 1020px;
+  min-height: 100vh;
+  margin: auto;
+  color: var(--base700);
+  background-color: var(--base100);
+  font-family: Lato, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+}

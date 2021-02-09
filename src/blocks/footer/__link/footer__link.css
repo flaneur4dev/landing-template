@@ -1,0 +1,18 @@
+.footer__link {
+  width: 44px;
+  height: 44px;
+  background-color: var(--base400);
+  background-image: url(../../../images/footer/up.svg);
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+@media screen and (max-width: 460px) {
+  .footer__link {
+    width: 100%;
+    background-size: 10%;
+    margin-bottom: 15px;
+    order: 1;
+  }
+}

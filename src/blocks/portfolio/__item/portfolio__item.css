@@ -1,0 +1,9 @@
+.portfolio__item {
+  border-radius: 50%;
+  background-color: var(--base500);
+  background-image: url(../../../images/portfolio/search.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 20%;
+  line-height: 0;
+}

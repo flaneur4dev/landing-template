@@ -1,0 +1,8 @@
+.intro__title {
+  margin: 0 0 42px;
+  padding: 0;
+  color: var(--base100);
+  font-size: 55px;
+  font-weight: 300;
+  text-align: center;
+}

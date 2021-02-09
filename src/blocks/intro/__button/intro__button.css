@@ -1,0 +1,16 @@
+.intro__button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  display: block;
+  margin: 0 auto 43px;
+  padding: 14px;
+  border: none;
+  outline: none;
+  color: var(--base100);
+  background: var(--base400);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  cursor: pointer;
+}

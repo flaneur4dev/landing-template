@@ -1,0 +1,19 @@
+.intro {
+  padding: 78px 40px 82px;
+  background-image: url(../../images/intro/jumbotron.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+@media screen and (max-width: 650px) {
+  .intro {
+    padding: 50px 30px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .intro {
+    padding: 30px;
+  }
+}

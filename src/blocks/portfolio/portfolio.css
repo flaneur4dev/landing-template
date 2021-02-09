@@ -1,0 +1,9 @@
+.portfolio {
+  padding: 55px 65px 60px;
+}
+
+@media screen and (max-width: 720px) {
+  .portfolio {
+    padding: 40px 50px 40px;
+  }
+}

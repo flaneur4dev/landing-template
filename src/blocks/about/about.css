@@ -1,0 +1,22 @@
+.about {
+  padding: 57px 120px 74px;
+  background: var(--base500);
+}
+
+@media screen and (max-width: 950px) {
+  .about {
+    padding: 57px 50px 74px;
+  }
+}
+
+@media screen and (max-width: 690px) {
+  .about {
+    padding: 30px 50px 50px;
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .about {
+    padding: 30px;
+  }
+}

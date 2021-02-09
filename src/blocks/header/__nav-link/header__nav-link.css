@@ -1,0 +1,25 @@
+.header__nav-link {
+  margin: 0;
+  padding: 14px 15px;
+  color: var(--base700);
+  font-size: 14px;
+  text-decoration: none;
+  transition: .3s;
+}
+
+.header__nav-link:hover {
+  color: var(--base100);
+  background: var(--base400);
+}
+
+@media screen and (max-width: 750px) {
+  .header__nav-link {
+    padding: 14px 10px;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .header__nav-link {
+    padding: 10px 5px;
+  }
+}

@@ -1,0 +1,7 @@
+.about__subtitle {
+  margin: 0 0 44px;
+  padding: 0;
+  font-size: 14px;
+  color: var(--base100);
+  text-align: center;
+}

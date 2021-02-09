@@ -1,0 +1,3 @@
+.portfolio__cards_filter_flat {
+  grid-template-columns: repeat(2, 1fr);
+}

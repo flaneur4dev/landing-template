@@ -1,0 +1,37 @@
+.portfolio__button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  margin-right: 14px;
+  padding: 14px 10px;
+  border: none;
+  outline: none;
+  color: var(--base100);
+  background: var(--base400);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  cursor: pointer;
+  transition: .3s;
+}
+
+.portfolio__button:last-child {
+  margin-right: 0;
+}
+
+.portfolio__button:hover {
+  background: var(--base500);
+}
+
+@media screen and (max-width: 720px) {
+  .portfolio__button {
+    padding: 10px 8px;
+    font-size: 11px;
+  }
+}
+
+@media screen and (max-width: 508px) {
+  .portfolio__button {
+    padding: 5px;
+  }
+}

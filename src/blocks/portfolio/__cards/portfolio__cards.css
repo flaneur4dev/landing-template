@@ -1,0 +1,32 @@
+.portfolio__cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 34px 60px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+@media screen and (max-width: 970px) {
+  .portfolio__cards {
+    gap: 34px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .portfolio__cards {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (max-width: 508px) {
+  .portfolio__cards {
+    gap: 20px;
+  }
+}
+
+@media screen and (max-width: 490px) {
+  .portfolio__cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

@@ -1,0 +1,10 @@
+.contact {
+  padding: 52px 40px 60px;
+  background: var(--base200);
+}
+
+@media screen and (max-width: 750px) {
+  .contact {
+    padding: 30px 20px 40px;
+  }
+}

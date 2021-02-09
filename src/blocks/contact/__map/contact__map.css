@@ -1,0 +1,31 @@
+.contact__map {
+  width: 466px;
+  height: 266px;
+  transform: translateY(-4px);
+}
+
+.contact__map::before {
+  content: 'Bla Bla Company 125009 Moscow, Red Square 1';
+  display: block;
+  margin-bottom: 11px;
+  padding-left: 18px;
+  font-size: 14px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background: url(../../../images/contact/metka.svg);
+  background-position: left;
+  background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 870px) {
+  .contact__map {
+    width: 415px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .contact__map {
+    width: 100%;
+  }
+}
