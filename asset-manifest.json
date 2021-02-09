@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/landing-template/static/css/main.626f4112.chunk.css",
+    "main.js": "/landing-template/static/js/main.440bcfdf.chunk.js",
+    "main.js.map": "/landing-template/static/js/main.440bcfdf.chunk.js.map",
+    "runtime-main.js": "/landing-template/static/js/runtime-main.61ce4e15.js",
+    "runtime-main.js.map": "/landing-template/static/js/runtime-main.61ce4e15.js.map",
+    "static/js/2.8d684d71.chunk.js": "/landing-template/static/js/2.8d684d71.chunk.js",
+    "static/js/2.8d684d71.chunk.js.map": "/landing-template/static/js/2.8d684d71.chunk.js.map",
+    "index.html": "/landing-template/index.html",
+    "static/css/main.626f4112.chunk.css.map": "/landing-template/static/css/main.626f4112.chunk.css.map",
+    "static/js/2.8d684d71.chunk.js.LICENSE.txt": "/landing-template/static/js/2.8d684d71.chunk.js.LICENSE.txt",
+    "static/media/ava-1.dd90a8a4.jpg": "/landing-template/static/media/ava-1.dd90a8a4.jpg",
+    "static/media/ava-2.7324ad53.jpg": "/landing-template/static/media/ava-2.7324ad53.jpg",
+    "static/media/ava-3.2b447b96.jpg": "/landing-template/static/media/ava-3.2b447b96.jpg",
+    "static/media/ball.cba2c9b9.svg": "/landing-template/static/media/ball.cba2c9b9.svg",
+    "static/media/index.css": "/landing-template/static/media/up.85b3ab9f.svg",
+    "static/media/fb.74dc521d.svg": "/landing-template/static/media/fb.74dc521d.svg",
+    "static/media/glg.ea78d128.svg": "/landing-template/static/media/glg.ea78d128.svg",
+    "static/media/img-1.5ded256f.png": "/landing-template/static/media/img-1.5ded256f.png",
+    "static/media/img-2.f7bb41f1.png": "/landing-template/static/media/img-2.f7bb41f1.png",
+    "static/media/img-3.dc872af2.png": "/landing-template/static/media/img-3.dc872af2.png",
+    "static/media/img-4.a3e5c160.png": "/landing-template/static/media/img-4.a3e5c160.png",
+    "static/media/img-5.17233c39.png": "/landing-template/static/media/img-5.17233c39.png",
+    "static/media/img-6.dda1d9c8.png": "/landing-template/static/media/img-6.dda1d9c8.png",
+    "static/media/twt.1217e13e.svg": "/landing-template/static/media/twt.1217e13e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61ce4e15.js",
+    "static/js/2.8d684d71.chunk.js",
+    "static/css/main.626f4112.chunk.css",
+    "static/js/main.440bcfdf.chunk.js"
+  ]
+}
